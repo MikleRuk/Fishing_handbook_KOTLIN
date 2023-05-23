@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="fish">
+        <item>Сом</item>
+        <item>Налим</item>
+        <item>Щука</item>
+        <item>Карась</item>
+    </string-array>
+
+    <string-array name="fish_content">
+        <item>описание Сома</item>
+        <item>описание Налима</item>
+        <item>описание Щуки</item>
+        <item>описание Карася</item>
+    </string-array>
+    
+    <array name="fish_image_array">
+        <item>@drawable/som</item>
+        <item>@drawable/nalim</item>
+        <item>@drawable/shchuka</item>
+        <item>@drawable/caras</item>
+    </array>
+
+
+
+
+    <string-array name="na">
+        <item>Наживка на Сома</item>
+        <item>Наживка на Налима</item>
+        <item>Наживка на Щуку</item>
+        <item>Наживка на Карася</item>
+    </string-array>
+
+    <string-array name="na_content">
+        <item>описание наживки на Сома</item>
+        <item>описание наживки на Налима</item>
+        <item>описание наживки на Щуку</item>
+        <item>описание наживки на Карася</item>
+    </string-array>
+
+    <array name="na_image_array">
+        <item>@drawable/na_som</item>
+        <item>@drawable/na_nalim</item>
+        <item>@drawable/na_schuka</item>
+        <item>@drawable/na_karas</item>
+    </array>
+
+
+
+    <string-array name="sna">
+        <item>Снасти для Сома</item>
+        <item>Снасти для Налима</item>
+        <item>Снасти для Щуки</item>
+        <item>Снасти для Карася</item>
+    </string-array>
+
+    <string-array name="sna_content">
+        <item>описание снасти на Сома</item>
+        <item>описание снасти на Налима</item>
+        <item>описание снасти на Щуку</item>
+        <item>описание снасти на Карася</item>
+    </string-array>
+
+    <array name="sna_image_array">
+        <item>@drawable/sna_som</item>
+        <item>@drawable/sna_nalim</item>
+        <item>@drawable/sna_schuka</item>
+        <item>@drawable/sna_caras</item>
+    </array>
+
+
+    <string-array name="history">
+        <item>История Сома</item>
+        <item>История Налима</item>
+        <item>История Щуки</item>
+        <item>История Карася</item>
+    </string-array>
+
+    <string-array name="history_content">
+        <item>тут содердится большой текст, содержащий историю Сома</item>
+        <item>тут содердится большой текст, содержащий историю  Налима</item>
+        <item>тут содердится большой текст, содержащий историю  Щуки</item>
+        <item>тут содердится большой текст, содержащий историю  Карася</item>
+    </string-array>
+
+    <array name="history_image_array">
+        <item>@drawable/som</item>
+        <item>@drawable/nalim</item>
+        <item>@drawable/shchuka</item>
+        <item>@drawable/caras</item>
+    </array>
+
+
+
+
+
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fishing_handbook_KOTLIN</string>
+    <string name="fish">Рыбы</string>
+    <string name="na">Наживки</string>
+    <string name="sna">Снасти</string>
+    <string name="history">История</string>
+</resources>
